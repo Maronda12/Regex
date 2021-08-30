@@ -1,0 +1,12 @@
+/Users/Maronda/Projects/Regex/Regex/bin/Debug/netcoreapp3.1/Regex.deps.json
+/Users/Maronda/Projects/Regex/Regex/bin/Debug/netcoreapp3.1/Regex.runtimeconfig.json
+/Users/Maronda/Projects/Regex/Regex/bin/Debug/netcoreapp3.1/Regex.runtimeconfig.dev.json
+/Users/Maronda/Projects/Regex/Regex/bin/Debug/netcoreapp3.1/Regex.dll
+/Users/Maronda/Projects/Regex/Regex/bin/Debug/netcoreapp3.1/Regex.pdb
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.csproj.AssemblyReference.cache
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.AssemblyInfoInputs.cache
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.AssemblyInfo.cs
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.csproj.CoreCompileInputs.cache
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.dll
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.pdb
+/Users/Maronda/Projects/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.genruntimeconfig.cache
